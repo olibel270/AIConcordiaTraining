@@ -1,55 +1,19 @@
-.. AI Concordia Workshops documentation master file, created by
-   sphinx-quickstart on Fri Sep 28 20:57:52 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+##########
+Workshops
+##########
 
-Welcome to AI Concordia Workshops documentation
-==================================================
+Introduction text
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :titlesonly:
+   
+   :caption: Workshop 1:
+   Content/Workshop1/Workshop1
+   Content/Workshop2/Workshop2
+========================================
 
-
-
-$project
-========
-
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
+#######
 License
--------
-
-The project is licensed under the BSD license.
+#######
+This documentation is licensed under the MIT license.
