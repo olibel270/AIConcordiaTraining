@@ -1,5 +1,5 @@
-Workshop 2
-========== 
+Workshop 2 : Basics of Neural Networks
+====================================== 
 .. toctree::
    :maxdepth: 2
 

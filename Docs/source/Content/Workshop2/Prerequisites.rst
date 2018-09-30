@@ -7,6 +7,8 @@ Prerequisites
 ========
 
 
+Prerequisites of Workshop 1
+---------------------------
 
-Chain Rule
-----------
+Mathematical Concepts
+---------------------
