@@ -36,11 +36,25 @@ Python
 The followong section will guide you through a basic setup of your Python environment to be fully ready for the Workshop.
 If you already have a python coding environment set up on your laptop, feel free to skip this section.
 
+Download and install the latest PyCharm Free Community IDE: https://www.jetbrains.com/pycharm/download/
+
+Follow the PyCharm getting started Quickstart Guide: https://www.jetbrains.com/help/pycharm/quick-start-guide.html
+
 Required Python Libraries
 =========================
 
 Numpy
 -----
+.. code-block:: none
+
+   python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 
 Pytorch
 -------
+
+https://pytorch.org/get-started/locally/
+
+.. code-block:: none
+
+   conda install pytorch -c pytorch
+   pip3 install torchvision
