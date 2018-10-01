@@ -1,5 +1,6 @@
+******************************************************
 Workshop 1 : Basics of Machine Learning and Regression
-======================================================
+******************************************************
 
 This workshop touches on the very basic of machine learning through regressions models. In order to be well prepared and get the most out 
 of the workshop, please follow the Prerequisites section before attending. It will give you the important and necessary mathematical background
